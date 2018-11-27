@@ -1,0 +1,6 @@
+model_checkpoint_path: "sun_model-299"
+all_model_checkpoint_paths: "sun_model-259"
+all_model_checkpoint_paths: "sun_model-269"
+all_model_checkpoint_paths: "sun_model-279"
+all_model_checkpoint_paths: "sun_model-289"
+all_model_checkpoint_paths: "sun_model-299"
